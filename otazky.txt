@@ -1,0 +1,180 @@
+1. Co je to termodynamická soustava a jaké základní termodynamické soustavy rozlišujeme a čím se vyznačují.
+2. Jaké vlastnosti musí parametry soustavy splňovat, aby mohly být považovány za stavové? Uveďte příklad.
+3. Co jsou to extenzivní a intenzivní veličiny. Uveďte příklady.
+4. Jak zní I. postulát termodynamiky?
+5. Jak zní II. postulát termodynamiky?
+6. Jak je definován kvazistatický neboli rovnovážný děj?
+7. Jak je definován vratný termodynamický děj?
+8. Jak zní Nultý zákon termodynamiky?
+9. Napište převodní vztah mezi Celsiovou a termodynamickou (Kelvinovou) stupnicí.
+10. Jaké rozlišujeme způsoby přenosu energie do či ze soustavy? Popište je.
+11. Jak je definována objemová práce. Uveďte příklad.
+12. Jakými předpoklady je definován ideální plyn.
+13. Napište stavovou rovnici ideálního plynu.
+14. Napište vztah mezi tlakem a teplotou pro izochorický děj.
+15. Napište První zákon termodynamiky v diferenciálním tvaru a popište veličiny, které se ve vztahu vyskytují.
+16. Jak se změní rovnice vyjadřující První termodynamický zákon v případě, že se jedná o kruhový děj.
+17. Napište vztah definující tepelnou kapacitu.
+18. Napište kalorimetrickou (směšovací) rovnici.
+19. Napište Mayerův vztah.
+20. Jak je definována Poissonova konstanta?
+21. Napište matematickou formulaci Poissonova zákona.
+22. Napište jednu z formulací Druhého zákona termodynamiky.
+23. Napište vztah pro tepelnou účinnost spolu s vysvětlujícím obrázkem.
+24. Napište vztah pro topný faktor spolu s vysvětlujícím obrázkem.
+25. Napište vztah pro chladící faktor spolu s vysvětlujícím obrázkem.
+26. Nakreslete p-V digram pro ideální Carnotův cyklus a popište jednotlivé děje, ze kterých se sestává.
+27. Napište vztah pro tepelnou účinnost ideálního Carnotova cyklu.
+28. Napište znění první a druhé Carnotovy věty.
+29. Napište Clausiovu nerovnost.
+30. Jak zní Třetí termodynamický zákon.
+31. Jaké skupenské přeměny rozlišujeme?
+32. Napište Clausiovu-Clapeyronovu rovnici.
+33. Napište vztah vyjadřující Gibbsovo pravidlo fází. Popište význam jednotlivých symbolů.
+34. Nakreslete fázový p-T diagram pro pro jednosložkovou soustavu. Popište jednotlivé části diagramu spolu s významnými body.
+35. Napište vztah pro délkovou teplotní roztažnost.
+36. Napište vztah pro objemovou teplotní roztažnost.
+37. Napište Maxwellovy předpoklady, za kterých vybudoval kinetickou teorii plynu.
+38. Napište vztah vyjadřující pomocí termodynamické teploty střední kinetickou energii molekul ideálního plynu.
+39. Napište vztah vyjadřující Maxwellovo-Boltzmannovo rozdělení rychlostí ideálního plynu.
+40. Určete nejpravděpodobnější rychlost molekul ideálního plynu pro danou teplotu.
+41. Napište znění Ekvipartičního teorému.
+42. Napište na základě Ekvipartičního teorému molární tepelnou kapacitu při konstantním objemu ideálního jednoatomového plynu.
+43. Jak zní Daltonův zákon o parciálním tlaku?
+44. Napište kanonický tvar vlnové rovnice.
+45. Napište vlnovou rovnici pro rovinné vlny.
+46. Napište vlnovou rovnici pro kulové vlny.
+47. Napište obecné řešení vlnové rovnice.
+48. Napište vlnovou rovnici pro rovinnou vlnu postupující pouze jedním směrem.
+49. Napište obecné řešení vlnové rovnice pro kulové vlny.
+50. Jak je definováno vlnové číslo pomocí kruhového kmitočtu? Jak je definované vlnové číslo pomocí vlnové délky? Co nám udává směr vlnového vektoru?
+51. Odvoďte vztah popisující vlnění (stojaté vlnění), které vznikne složením dvou proti sobě postupujících harmonických vln.
+52. Co chápeme pod pojmem disperze? Jak vypadá obecný zápis disperzní relace?
+53. Napište vztah pro výpočet grupové rychlosti.
+54. Napište vztah pro výpočet fázové rychlosti.
+55. Jaký je vztah mezi grupovou a fázovou rychlostí pro bezdisperzní prostředí?
+56. Jak definujeme vlnový balík? (vyjádřete pomocí vztahu).
+57. Napište obecný vztah mezi grupovou a fázovou rychlostí.
+58. Co je to normální a anomální disperze. Nakreslete vysvětlující obrázek.
+59. Napište obecnou (nelineární) soustavu rovnic popisující akustické vlny v ideálních tekutinách.
+60. Napište soustavu linearizovaných rovnici popisující akustické vlny v ideální tekutině.
+61. Odvoďte vlnovou rovnici pro akustický tlak.
+62. Odvoďte vlnovou rovnici pro akustickou rychlost.
+63. Jaký je rozdíl mezi akustickou rychlostí a rychlostí šíření akustické vlny.
+64. Jak definujeme akustický tlak.
+65. Odvoďte vztah pro výpočet rychlosti šíření lineárních akustických vln.
+66. Jak je definována podélná akustická vlna?
+67. Šíří se v tekutinách vlna podélná či příčná?
+68. Odvoďte vlastní kmitočty pro rezonátor délky L řešením vlnové rovnice pro rovinné akustické vlny při znalosti okrajových podmínek: v(x = 0) = 0, v(x = L) = 0.
+69. Jak závisí činitel útlumu akustických vln na kmitočtu?
+70. Napište vztah pro výpočet hladiny akustického tlaku.
+71. Napište řešení vlnové rovnice pro tlumené rovinné vlny.
+72. Ukažte, že ve vodivém prostředí můžeme položit objemovou hustotu elektrického náboje rovnu nule.
+73. Odvoďte zobecněnou vlnovou rovnici (telegrafní rovnici) pro elektrickou intenzitu.
+74. Odvoďte disperzní relaci pro elektromagnetickou vlnu ve vodivém prostředí.
+75. Jaký je geometrický vztah mezi mezi vektory elektrické intenzity, magnetické intenzity a vlnového vektoru.
+76. Je elektromagnetická vlna v izotropním prostředí vlnou podélnou či příčnou? Zdůvodněte.
+77. Napište vztah pro Poyntingův vektor.
+78. Napište Poyntingovu bilanční rovnici v diferenciálním tvaru.
+79. Jak je zaveden index lomu pro nemagnetická prostředí? Vyjádřete index lomu pomocí relativní permitivity.
+80. Napište zákon odrazu pro elektromagnetické vlny.
+81. Napište vztah pro zákon lomu (Snellův zákon) elektromagnetické vlny.
+82. Co nám vyjadřují Fresnelovy vzorce?
+83. Odvoďte vztah pro Brewsterův úhel.
+84. Co chápeme pod pojmem polarizace elektromagnetické vlny.
+85. Odvoďte podmínku pro totální odraz.
+86. Napište vztah pro obecnou eliptickou polarizaci.
+87. Jaká je podmínka pro lineární polarizaci elektromagnetické vlny.
+88. Jaké musí být splněny podmínky pro kruhovou polarizaci elektromagnetické vlny.
+89. Jak definujeme polarizaci pravou (pravotočivou), resp. levou (levotočivou).
+90. Jak definujeme intenzitu elektromagnetické vlny (není myšlena elektrická intenzita).
+91. Co chápeme pod pojmem koherence elektromagnetických vln?
+92. Jakých hodnot může nabývat komplexní stupeň koherence γ(r1, r2, τ ) ≡ γ12(τ )? Co nám vyjadřuje?
+93. Jak se mění fáze elektromagnetické vlny při odrazu na opticky hustším prostředí?
+94. Napište podmínku pro pozorování maxim při dvousvazkové interferenci na tenké vrstvě.
+95. Napište podmínku pro pozorování minim při dvousvazkové interferenci na tenké vrstvě.
+96. Co chápeme pod pojmem difrakce vlny?
+97. Napište Huygensův-Fresnelův princip.
+98. Napište difrakční integrál v obecném tvaru pro Fresnelovu aproximaci (Fresnelovu difrakci).
+99. Napište difrakční integrál v obecném tvaru pro Fraunhoferovu difrakci (Fraunhoferovu aproximaci).
+100. Napište difrakční integrál pro Fraunhoferovu difrakci pro případ kolmého dopadu rovinné vlny na stínítko s obdélníkovým otvorem o stranách a, b.
+101. Napište, za jakých podmínek je možné použít optickou (paprskovou) optiku.
+102. Jak je definována optická dráha?
+103. Jak zní Fermatův princip.
+104. Pomocí Fermatova principu odvoďte zákon odrazu pro světelné paprsky.
+105. Pomocí Fermatova principu odvoďte zákon lomu pro světelné paprsky.
+106. Jaké vlastnosti má splňovat ideální optická soustava?
+107. Co je to zobrazovací rovnice?
+108. Co je to paraxiální aproximace?
+109. Co jsou to kardinální body optické soustavy? Jak jsou definovány?
+110. Odvoďte přenosovou matici pro volné šíření paprsku homogenním prostředím.
+111. Napište obrazovou rovnici pro tenkou spojnou čočku, tedy spojku.
+112. Napište vztah vyjadřující Stefanův-Boltzmannův zákon.
+113. Jak je definováno absolutně černé těleso a jakým způsobem se při experimentech realizuje.
+114. Napište Rayleighův-Jeansův zákon vyzařování černého tělesa.
+115. Napište vztah vyjadřující Gibbsovo kanonické rozdělení spolu s definicí partiční sumy.
+116. Odvoďte vztah pro výpočet střední energie pomocí partiční sumy.
+117. Jak zní princip maximální entropie?
+118. Napište vztah pro statistickou entropii.
+119. Napište vztah pro Boltzmannovo rozdělení.
+120. Napište Planckův vyzařovací zákon.
+121. Z Planckova vyzařovacího zákona odvoďte Rayleighův-Jeansův a Wienův vyzařovací zákon.
+122. Co je to fotoelektrický jev?
+123. Napište vztah pro kinetickou energii emitovaných elektronů při fotoelektrickém jevu.
+124. Napište vztahy pro hybnost a energii fotonu.
+125. Vysvětlete Comptonův jev.
+126. Napište Comptonovu rovnici.
+127. Vysvětlete podstatu produkce páru elektron-pozitron.
+128. Uveďte příkladu demonstrující jak vlnový, tak korpuskulární charakter světla.
+129. Popište Rutherfordův model atomu a vysvětlete jeho nedostatek.
+130. Popište Bohrův model atomu a odvoďte vztah pro hladiny energie atomu vodíku na základě tohoto modelu.
+131. Co jsou to částicové, resp. de Broglieho vlny. Pomocí těchto vln přepište Bohrovu podmínku.
+132. Čemu se rovná fázová a grupová rychlost částicových (de Broglieho) vln? Napište Heisenbergovy relace neurčitosti a vysvětlete důsledky jejich platnosti.
+133. Napište nestacionární Schrödingerovu rovnici.
+134. Napište stacionární Scrödingerovu rovnici.
+135. Napište operátor hybnosti a energie.
+136. V čem spočívá interpretace vlnové funkce, která je řešením Schrödingerovy rovnice? Napište kalibrační podmínku pro vlnovou funkci.
+137. Co je to tunelový jev?
+138. Co chápeme komutátorem dvou operátorů? (napište definiční vztah)
+139. Napište kanonické komutátorové vztahy.
+140. Ukažte, že operátory jednotlivých složek momentu hybnosti jsou nekomutativní.
+141. Dokažte, že dva komutativní operátory mají společnou vlastní funkci.
+142. Dokažte, že komutátory kvadrátu velikosti hybnosti a složek momentů hybnosti jsou komutativní.
+143. Napište vztah pro kvadrát velikosti momentu hybnosti a jeho z-ové složky.
+144. Odvoďte vztah pro orbitální magnetický moment.
+145. Napište jak je kvantován kvadrát velikosti a z-ová složka orbitálního a vlastního momentu elektronu.
+146. Pomocí Bohrova magnetonu vyjádřete z-ovou složku magnetického momentu orbitálního a vlastního.
+147. Napište základní kvantová čísla elektronu spolu s podmínkami stanovujícími hodnoty, kterých mohou nabývat.
+148. Jak zní Pauliho vylučovací princip?
+149. Jaké se používá aproximace pro popis atomů s více elektrony?
+150. Jak je definována slupka a podslupka atomu. Jaká se používá notace pro jejich značení? Dále nepište kolik může elektronů se může nacházet ve slupkách a jednotlivých podslupkách.
+151. Jaké rozlišujeme chemické vazby?
+152. Vysvětlete vznik energetických pásů.
+153. Napište Fermiho-Dirackovo rozdělení energií.
+154. Pomocí pásové teorie vysvětlete rozdílné chování vodičů, izolantů a polovodičů.
+155. Co je to spontánní a stimulovaná emise?
+156. Vysvětlete principiální funkci laseru.
+157. Co jsou to fermiony a bosony?
+158. Jaké základní interakce mezi částicemi můžeme pozorovat? Porovnejte je co dosahu a relativní síly.
+159. Napište co jsou to leptony a jaké leptony rozlišujeme?
+160. Napište co jsou to hadrony, jak je dělíme a z jakých částic se dále skládají?
+161. Co je to nuklid, izotop, nukleonové (hmotnostní) číslo, neutronové a protonové číslo. Jakou používáme notaci při popisu nuklidů?
+162. Napište empiricky zjištěný vztah pro poloměr atomu.
+163. Napište hmotnost uhlíku 12C v hmotnostních jednotkách.
+164. Jak je definována vazebná energie nuklidu?
+165. Nakreslete průběh závislosti vazebné energie na nukleonovém čísle.
+166. Nakreslete závislost neutronového čísla na protonovém čísle jednotlivých nuklidů. Vysvětlete odchylku od lineární závislosti.
+167. Co je to radioaktivní přeměna (rozpad) a co jsou to radionuklidy?
+168. Co je to radioaktivita a jaké radioaktivní přeměny rozlišujeme?
+169. Vysvětlete a popište α-přeměnu (rozpad).
+170. Vysvětlete a popište β-přeměnu (rozpad).
+171. Popište a vysvětlete γ-přeměnu a vnitřní konverzi.
+172. Popište elektronu, emisi nukleonů a spontánní štěpení.
+173. Co je to radioaktivní rozpadová (přeměnová) řada, a jaké takovéto řady rozlišujeme.
+174. Co je to jaderná reakce? Co je to řetězová reakce? Co je to štěpná jaderná reakce? Co je to štěpná řetězová reakce?
+175. Popište štěpnou reakci nuklidů používaných v energetice.
+176. Co je to řízená a neřízená štěpná reakce?
+177. Co ovlivňuje účinnost (výtěžnost) štěpné reakce? Co je to multiplikační faktor?
+178. Co chápeme pod pojmem termojaderná fúze?
+179. Zapište fúzi pro deuterium a tritium.
+180. Co je to Lawsonovo kritérium?
